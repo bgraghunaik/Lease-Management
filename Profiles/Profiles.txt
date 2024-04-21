@@ -1,1 +1,8 @@
+Name of the Student : B G Raghu Naik 
+Learning Track : Salesforce - Developer
+Project Name : Lease Management 
+Trailhead Profile : https://www.salesforce.com/trailblazer/raghunaikbg
+Developer Org Username : bgraghunaik@gdcproject.com
+Developer Org Password : Gayatri@123
+Position : Team Lead
 
