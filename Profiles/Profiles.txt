@@ -6,3 +6,18 @@ Developer Org Username : bgraghunaik@gdcproject.com
 Developer Org Password : Gayatri@123
 Position : Team Lead
 
+Name of the Student : Sirasani Ganesh
+Learning Track : Salesforce - Developer
+Project Name : Lease Management 
+Trailhead Profile : https://www.salesforce.com/ganeshsirasani
+Developer Org Username : sirasaniganesh@gdcproject.com
+Developer Org Password : Gayatri@123
+Position : Team Member
+
+Name of the Student : Shaik Mohammad Hussain Basha
+Learning Track : Salesforce - Developer
+Project Name : Lease Management 
+Trailhead Profile : https://www.salesforce.com/trailblazer/hussi5
+Developer Org Username : shaikhussain@gdcproject.com
+Developer Org Password : Gayatri@123
+Position : Team Lead
