@@ -20,4 +20,4 @@ Project Name : Lease Management
 Trailhead Profile : https://www.salesforce.com/trailblazer/hussi5
 Developer Org Username : shaikhussain@gdcproject.com
 Developer Org Password : Gayatri@123
-Position : Team Lead
+Position : Team Member
